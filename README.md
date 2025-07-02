@@ -20,6 +20,8 @@ Step 6: Created visualizations in power bi.
 * Preliminary data indicates BA students have some of the lowest average mental health scores yet having some of the highest participation in the survey making their average mental scores in this survey more statistically sound compared to other degrees who had similar mental health scores but fewer participants. 
 **WHY IS THIS THE CASE?** My hypothesis regarding this is BA students do modules like sociology which forces them to be more socially aware and cognisant of themselves as well as society in general. This is a double edged sword because in as much as they more cognisant of societal issues like systematic injustices and oppression and they are more curious about these issues leading down a spiraling hole where they are faced with the truth about this world we live in. Imagine you’re in the movie “matrix” once you wake up you can't see the world the same. Awareness can be both a gift and a burden.
 
+**Link to dashboard:** https://app.powerbi.com/view?r=eyJrIjoiMmZhY2E1ZTMtOWU5Ny00OGIwLWI0ZTgtNjVlYTU5ZmI5Y2FjIiwidCI6Ijk2MDQ1ODE1LWI3Y2ItNDE3Yi05NzgzLTM0Y2M2ZjYyN2ZjZCIsImMiOjh9
+
 **Data skills used:** Data cleaning,data transformation,exploratory data analysis and data visualization
 **Tools and platforms:** Excel, MySQL and power BI
 **Technical stack:** Excel formulas, Power query, SQL, DAX 
