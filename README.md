@@ -23,7 +23,20 @@ Step 6: Created visualizations in power bi.
 **Link to youtube walkthrough:** https://youtu.be/vEaHmtjbGC8?si=i16Xkz1GnNjS0KEF
 
 **Data skills used:** Data cleaning,data transformation,exploratory data analysis and data visualization
+
+**Data ethics**
+● Survey was anonymous to protect participant identity
+● I didn't ask any obvious identifying information like name, email etc
+● I converted the dynamic card showing population into a static card because some coping
+mechanisms and degrees for example had 1 participant and maybe some how this could
+be used to narrow down individuals even though unlikely I took an extra step to ensure
+anonymity.
+● I decided to not post the link to the report in case it can somehow be reverse
+engineered to reveal information about participants or my data as this is anonymous
+even though it is unlikely we must take steps to ensure integrity .
+
 **Tools and platforms:** Excel, MySQL and power BI
+
 **Technical stack:** Excel formulas, Power query, SQL, DAX 
 
 Mental health is a challenge people in society continue to face and as a young person in data it is my responsibility to bring awareness because data isn't just numbers there are humans behind those numbers their stories,pain and injustices they face
